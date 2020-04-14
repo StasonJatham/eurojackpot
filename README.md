@@ -1,5 +1,9 @@
 # eurojackpot
-Okay so I read an article on how to win the lottery. Apparently there are some statistical tactics you can use like 2 low 3 high and 2 odd and 3 even... etc. <br> I wrote a Python script to automate the number picking. So it calculates random numbers (pseudo random, shutup nerds :,D). <br> You get 5 Lotto Numbers and 2 Euro Numbers, when querying with SQL below i added "hit", this shows you how many times the same number combination was calculated. So in theory the more times we get the same number combination, the more likely it is that those will be the winning numbers. <br> Now let us snap back to reality..hehe..this probably will not work and the numbers we get here probably will not help us win, but they make us feel like we are playing with a strategy so we can sleep at night.
+Okay so I read an article on how to win the lottery. Apparently there are some statistical tactics you can use like 2 low 3 high and 2 odd and 3 even... etc. <br> 
+
+I wrote a Python script to automate the number picking. So it calculates random numbers (pseudo random, shutup nerds :,D). <br> You get 5 Lotto Numbers and 2 Euro Numbers, when querying with SQL below i added "hit", this shows you how many times the same number combination was calculated. 
+
+So in theory the more times we get the same number combination, the more likely it is that those will be the winning numbers. <br> Now let us snap back to reality..hehe..this probably will not work and the numbers we get here probably will not help us win, but they make us feel like we are playing with a strategy so we can sleep at night.
 
 
 
